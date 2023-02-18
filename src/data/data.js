@@ -1,4 +1,4 @@
-export const name = "Harry Portter";
+export const name = "Harry Potter";
 export const address = "Number 4 Privet Drive, West Lafayette, IN, USA";
 export const email = "mailto:potter@purdue.edu";
 export const phone = "XXX-XXX-XXXX";
